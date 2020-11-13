@@ -11,9 +11,6 @@
   }],
   "require": {
     "php": ">=5.5.0",
-    "symfony/symfony": "4.*",
-    "symfony/yaml": "dev-master",
-    "symfony/console": "dev-master",
     "symfony/monolog-bundle": "dev-master",
     "gabrielbull/ups-api": "1.2.*"
   },
