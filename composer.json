@@ -11,7 +11,7 @@
   }],
   "require": {
     "php": ">=5.5.0",
-    "symfony/framework-bundle": "dev-master",
+    "symfony/symfony": "4.*",
     "symfony/yaml": "dev-master",
     "symfony/console": "dev-master",
     "symfony/monolog-bundle": "dev-master",
