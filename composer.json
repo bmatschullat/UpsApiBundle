@@ -12,7 +12,7 @@
   "require": {
     "php": ">=7.0",
     "symfony/monolog-bundle": "dev-master",
-    "gabrielbull/ups-api": "1.2.*"
+    "gabrielbull/ups-api": "v2.x-dev"
   },
   "require-dev": {
     "phpunit/phpunit": "^4.8"
