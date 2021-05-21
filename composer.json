@@ -11,8 +11,8 @@
   }],
   "require": {
     "php": ">=7.0",
-    "symfony/monolog-bundle": "^3.6.*",
-    "gabrielbull/ups-api": "^1.2.*"
+    "symfony/monolog-bundle": "3.6.*",
+    "gabrielbull/ups-api": "1.2.*"
   },
   "autoload": {
     "psr-4": {
